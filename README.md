@@ -4,7 +4,7 @@
 
 <p align='center'>
 <a href='https://www.linkedin.com/in/nick-hua-6b2815284/'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width:100px;height:auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width:50px;height:auto;">
  </a>
  </p>
 
@@ -102,7 +102,7 @@ Aspiring to excel as an accomplished JavaScript Developer (Full Stack and Fronte
 - 💻 **Programming Languages Mastered:** Python, JavaScript
 
 #### 🎓 Shenzhen Polytechnic University
-- 🖥️ Major in Software Technology
+- 🖥️ Software Technology
 - 📊 **GPA:** 3.35/4
 - 📚 **Average Result:** 90.8/100
 - 📘 **Main Courses:** Data Structure, Object-oriented Programming, Database Management and Application, Development of Web Application System, Machine Learning, AI Data Visualization, Artificial Intelligence Vision (Machine Vision), etc.
