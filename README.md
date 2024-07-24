@@ -51,13 +51,13 @@ Aspiring to excel as an accomplished JavaScript Developer (Full Stack and Fronte
 
 ### 💼 Work and Internship Experience
 
-#### 🏢 Peng Cheng Laboratory (6 June 2020 to 31 August 2020)
+#### 🏢 Peng Cheng Laboratory
 - **Position:** Front-end Development (Internship) 
 - **Work Content:**
   - 🛠️ Developed and constructed the China Peng Cheng Cloud Brain System using Python, JavaScript, MySQL, and web crawler technologies.
   - 🔧 Upgraded, iterated, and deployed the system.
 
-#### 🏢 Shenzhen Ezpro Technology Co., LTD. (From November 2020 to July 2023)
+#### 🏢 Shenzhen Ezpro Technology Co., LTD.
 - **Position:** Web Front-end Developer (Internship) and Full Stack Engineer
 - **Work Content:**
   - 💻 Developed audio and video solutions for large conferences using JavaScript, Java, Python, MySQL, MongoDB, and various development technologies.
