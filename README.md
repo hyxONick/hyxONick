@@ -43,6 +43,8 @@
 
 - 😄 Read more about my CSDN: [deft_](https://blog.csdn.net/deft_)
 
+- 💻 Personal Portfolio: [Nick Hua](https://www.nickhua.tech/) 
+
 <br />
 
 ### 🎯 Career Objective:
