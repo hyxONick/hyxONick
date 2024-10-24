@@ -108,7 +108,7 @@ Aspiring to excel as an accomplished JavaScript Developer (Full Stack and Fronte
 - 📊 **GPA:** 3.35/4
 - 📚 **Average Result:** 90.8/100
 - 📘 **Main Courses:** Data Structure, Object-oriented Programming, Database Management and Application, Development of Web Application System, Machine Learning, AI Data Visualization, Artificial Intelligence Vision (Machine Vision), etc.
-- 💻 **Programming Languages Mastered:** Python, JavaScript, Java, C, Swift
+- 💻 **Programming Languages Mastered:** JavaScript/TypeScript, Python, C#
 
 
 ### My Skill Set:
@@ -139,6 +139,7 @@ Aspiring to excel as an accomplished JavaScript Developer (Full Stack and Fronte
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="cs" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
