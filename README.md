@@ -91,8 +91,6 @@ Aspiring to excel as an accomplished JavaScript Developer (Full Stack and Fronte
      - 🛠️ Developed a web crawler using Python to gather product data.
      - 🌐 Created a backend interface to serve data to the front end.
      - 🤖 Integrated AI algorithms to compare prices and provide recommendations to users.
-      ![591e51d58206e045475397be5d48a94](https://github.com/user-attachments/assets/8993665b-45a4-40ad-b262-0f06600d56a9)
-
 
 
 ### 🧑‍🎓 Education:
